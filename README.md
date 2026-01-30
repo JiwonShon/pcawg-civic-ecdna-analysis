@@ -2,12 +2,6 @@
 AI-assisted, reproducible genomics analysis using public PCAWG metadata and CIViC evidence (Jupyter + conda)
 
 
-알겠슈. 네가 적어준 3개 항목을 그대로 살려서, **GitHub 루트의 `README.md`에 바로 붙여넣으면 되는 형태**로 만들어줄게유. (한글+영문 혼합 없이, 깔끔한 **영문 README**로 가는 게 국제 심사/공개에 제일 무난해서 영문 버전으로 제안하고, 아래에 한글 버전도 같이 드릴게유.)
-
----
-
-## README.md (영문 템플릿 — 그대로 복붙)
-
 ````md
 # pcawg-civic-ecdna-analysis
 
