@@ -1,0 +1,11 @@
+# 실행 권한 부여 (최초 1회)
+chmod +x setup_env.sh
+
+# 환경 생성 + 커널 등록
+./setup_env.sh
+
+# 활성화
+conda activate ecDNA_drug_env
+
+# AWS CLI 확인
+aws --version
